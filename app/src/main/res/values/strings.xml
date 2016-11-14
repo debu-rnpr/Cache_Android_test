@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MindValley_Debu_Android_Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="transition_banner">transation of the banner image</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+</resources>
